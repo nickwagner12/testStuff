@@ -1,0 +1,13 @@
+F:\source\repos\Frequency_Calculator\bin\Debug\netcoreapp3.1\Frequency_Calculator.exe
+F:\source\repos\Frequency_Calculator\bin\Debug\netcoreapp3.1\Frequency_Calculator.deps.json
+F:\source\repos\Frequency_Calculator\bin\Debug\netcoreapp3.1\Frequency_Calculator.runtimeconfig.json
+F:\source\repos\Frequency_Calculator\bin\Debug\netcoreapp3.1\Frequency_Calculator.runtimeconfig.dev.json
+F:\source\repos\Frequency_Calculator\bin\Debug\netcoreapp3.1\Frequency_Calculator.dll
+F:\source\repos\Frequency_Calculator\bin\Debug\netcoreapp3.1\Frequency_Calculator.pdb
+F:\source\repos\Frequency_Calculator\obj\Debug\netcoreapp3.1\Frequency_Calculator.csprojAssemblyReference.cache
+F:\source\repos\Frequency_Calculator\obj\Debug\netcoreapp3.1\Frequency_Calculator.AssemblyInfoInputs.cache
+F:\source\repos\Frequency_Calculator\obj\Debug\netcoreapp3.1\Frequency_Calculator.AssemblyInfo.cs
+F:\source\repos\Frequency_Calculator\obj\Debug\netcoreapp3.1\Frequency_Calculator.csproj.CoreCompileInputs.cache
+F:\source\repos\Frequency_Calculator\obj\Debug\netcoreapp3.1\Frequency_Calculator.dll
+F:\source\repos\Frequency_Calculator\obj\Debug\netcoreapp3.1\Frequency_Calculator.pdb
+F:\source\repos\Frequency_Calculator\obj\Debug\netcoreapp3.1\Frequency_Calculator.genruntimeconfig.cache
